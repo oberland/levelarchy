@@ -1,4 +1,4 @@
-var names = ['Ron', 'Harry', 'Drago', 'Robe'];
+var names = ['Ron', 'Harry', 'Drago', 'Robe', 'Marry'];
 
 module.exports = {
   all: names,
